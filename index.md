@@ -28,7 +28,7 @@
     background-image: url(./cssFolder/had.jpg);
     background-repeat: no-repeat;
     background-color:#fffbf7  ;
-    background-position:1400px 140px;
+    background-position:1350px 160px;
     background-size: 10%;
   }
  
