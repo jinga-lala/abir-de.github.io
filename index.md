@@ -28,8 +28,8 @@
     background-image: url(./cssFolder/had.jpg);
     background-repeat: no-repeat;
     background-color:#fffbf7  ;
-    background-position:75% 25%;
-    background-size: 9%;
+    background-position:35% 20%;
+    background-size: 14%;
   }
  
   .ui.menu .item img.logo {
