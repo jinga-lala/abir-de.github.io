@@ -30,8 +30,6 @@
     background-color:#fffbf7  ;
     background-position:15% 14%;
     background-size: 12%;
-    max-width: 180px;
-
   }
  
   .ui.menu .item img.logo {
