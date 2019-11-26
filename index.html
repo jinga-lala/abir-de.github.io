@@ -25,11 +25,7 @@
 
   <style type="text/css">
   body {
-    background-image: url(./cssFolder/had.jpg);
-    background-repeat: no-repeat;
     background-color:#fffbf7  ;
-    background-position:15% 14%;
-    background-size: 12%;
   }
  
   .ui.menu .item img.logo {
