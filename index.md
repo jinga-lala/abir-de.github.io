@@ -55,10 +55,10 @@
       <a href="#about" class="header item">
  	About
       </a>
-      <a href="./papers/pub.html" class="header item">
+      <a href="pub.html" class="header item">
  	Publications
       </a>
-      <a href="./rec/rec.html" class="header item">Recognitions</a>
+      <a href="rec.html" class="header item">Recognitions</a>
      </div>
   </div>
  
