@@ -77,7 +77,7 @@
 <p vspace="35"> </p> 
 I am a postdoctoral researcher in <a href="https://www.mpi-sws.org/">Max Planck Institute for Software Systems at Kaiserslautern, Germany</a> since January 2018. I am hosted by <a href="https://people.mpi-sws.org/~manuelgr/">Manuel Gomez Rodriguez</a>.  I received my PhD from <a href="http://cse.iitkgp.ac.in/">Department of Computer Science and Engineering</a>, <a href="http://www.iitkgp.ac.in/">IIT Kharagpur</a>. My supervisor was <a href="http://www.facweb.iitkgp.ernet.in/~niloy/">Prof. Niloy Ganguly</a>. During that time, I was a part of the <a href="http://cse.iitkgp.ac.in/resgrp/cnerg/">Complex Network Research Group (CNeRG)</a> at IIT Kharagpur. My PhD work was supported by <a href="https://india.googleblog.com/2013/06/the-2013-google-india-phd-fellowships.html"> Google India PhD Fellowship 2013</a>.
 <br><br>
-I did my BTech in Electrical Engineering  and MTech in Control Systems Engineering both from <a href="www.iitkgp.ac.in">IIT Kharagpur</a>. 
+Prior to this I did my BTech in Electrical Engineering  and MTech in Control Systems Engineering both from <a href="www.iitkgp.ac.in">IIT Kharagpur</a>. 
 
 <hr class='linex'>
 <p id=about vspace="-35"> </p> 
