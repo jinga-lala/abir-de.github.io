@@ -108,8 +108,7 @@ Prior to this I did my BTech in Electrical Engineering  and MTech in Control Sys
 <rintx vspace="45">PC Member/Reviewer</rintx><br><br>
 <descry>IEEE Trans. of KDE, JMLR, IEEE Trans. of Affective Computing, Chaos,<br>
 NIPS 2016-2019, ICLR 2018-2019, AAAI 2020, WWW 2020, KDD 2019, ICML 2018-2019, SDM 2018-2020.</descry>
-<hr align="justify">
-<a href="https://imprint.mpi-klsb.mpg.de/sws/ade"> Imprint </a> |  <a href="https://data-protection.mpi-klsb.mpg.de/sws/ade"> Data Protection </a>
+
 
 </body></html>
 
