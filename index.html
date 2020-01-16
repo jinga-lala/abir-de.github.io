@@ -7,7 +7,8 @@
 
   <!-- Site Properties -->
   <title>Abir De's webpage</title>
-
+<meta itemprop="image" content="./cssFolder/had.jpg?height=200&amp;width=115" />
+<meta property="og:image" content="./cssFolder/had.jpg?height=200&amp;width=115" />
   <link rel="stylesheet" type="text/css" href="cssFolder/reset.css">
   <link rel="stylesheet" type="text/css" href="cssFolder/site.css">
 
@@ -25,7 +26,6 @@
 
   <style type="text/css">
   body {
-    background-image: url(./cssFolder/had.jpg);
     background-repeat: no-repeat;
     background-color:#fffbf7  ;
     background-position:15% 14%;
@@ -67,15 +67,16 @@
   <div class="ui main text container">
    <rintx><b>Abir De</b></rintx>
    <p id=about vspace="15"> </p> 
-  Postodoctoral researcher<br>
-    Max Planck Institute for Software Systems<br> 
-    Kaiserslautern, Germany<br>
-   Email: ade  [AT] mpi-sws [dot] org
+  Assistant Professor<br>
+  Department of Computer Science and Engineering<br> 
+  Indian Institute of Technology Bombay<br>
+   Email: abir  [AT] cse [dot] iitb [dot] in
 <hr class='linex'>
 <p id=about vspace="-35"> </p> 
       <rintx>About me</rintx>
 <p vspace="35"> </p> 
-I am a postdoctoral researcher in <a href="https://www.mpi-sws.org/">Max Planck Institute for Software Systems at Kaiserslautern, Germany</a> since January 2018. I am hosted by <a href="https://people.mpi-sws.org/~manuelgr/">Manuel Gomez Rodriguez</a>.  I received my PhD from <a href="http://cse.iitkgp.ac.in/">Department of Computer Science and Engineering</a>, <a href="http://www.iitkgp.ac.in/">IIT Kharagpur</a>. My supervisor was <a href="http://www.facweb.iitkgp.ernet.in/~niloy/">Prof. Niloy Ganguly</a>. During that time, I was a part of the <a href="http://cse.iitkgp.ac.in/resgrp/cnerg/">Complex Network Research Group (CNeRG)</a> at IIT Kharagpur. My PhD work was supported by <a href="https://india.googleblog.com/2013/06/the-2013-google-india-phd-fellowships.html"> Google India PhD Fellowship 2013</a>.
+I am an Assistant Professor at the <a href="https://www.cse.iitb.ac.in/">Department of Computer Science and Engineering</a> in  <a href="https://www.iitb.ac.in/">IIT Bombay</a> since January 2020. 
+Before that, I was a postdoctoral researcher in <a href="https://www.mpi-sws.org/">Max Planck Institute for Software Systems at Kaiserslautern, Germany</a>. I was hosted by <a href="https://people.mpi-sws.org/~manuelgr/">Manuel Gomez Rodriguez</a>.  I received my PhD from <a href="http://cse.iitkgp.ac.in/">Department of Computer Science and Engineering</a>, <a href="http://www.iitkgp.ac.in/">IIT Kharagpur</a>. My supervisor was <a href="http://www.facweb.iitkgp.ernet.in/~niloy/">Prof. Niloy Ganguly</a>. During that time, I was a part of the <a href="http://cse.iitkgp.ac.in/resgrp/cnerg/">Complex Network Research Group (CNeRG)</a> at IIT Kharagpur. My PhD work was supported by <a href="https://india.googleblog.com/2013/06/the-2013-google-india-phd-fellowships.html"> Google India PhD Fellowship 2013</a>.
 <br><br>
 Prior to this I did my BTech in Electrical Engineering  and MTech in Control Systems Engineering both from <a href="www.iitkgp.ac.in">IIT Kharagpur</a>. 
 
@@ -83,12 +84,8 @@ Prior to this I did my BTech in Electrical Engineering  and MTech in Control Sys
 <p id=about vspace="-35"> </p> 
       <rintx>Research Interests</rintx>
 <p vspace="35"> </p> 
-
-My main research interests broadly lie in the area of Machine Learning and its applications on networks. Currently my focus is modeling, learning and control of networked dynamical processes. To this aim, I used different Point process based techniques to model various complex dynamics like opinion-diffusion, information propagation in social networks.
-
-<br><br>
- I also worked on supervised learning over graphs, for example, link prediction and recommendation problems. Very recently, I started working on deep learning on graphs, for example, deep generative random graph model,
-deep reinforcement learning of networked processes, etc.
+    <li><descry> Learning over graphs </descry> </li>
+    <li><descry> Human centric machine learning </descry> </li>
 
 <hr class="linex">
 <p vspace="-15"> </p> 
@@ -117,5 +114,10 @@ NIPS 2016-2019, ICLR 2018-2019, AAAI 2020, WWW 2020, KDD 2019, ICML 2018-2019, S
 </body></html>
 
  
+<!My main research interests broadly lie in the area of Machine Learning and its applications on networks. Currently my focus is modeling, learning and control of networked dynamical processes. To this aim, I used different Point process based techniques to model various complex dynamics like opinion-diffusion, information propagation in social networks.>
+
+<!<br><br>>
+<! I also worked on supervised learning over graphs, for example, link prediction and recommendation problems. Very recently, I started working on deep learning on graphs, for example, deep generative random graph model,
+deep reinforcement learning of networked processes, etc.>
 
 
