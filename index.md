@@ -108,15 +108,6 @@ Prior to this I did my BTech in Electrical Engineering  and MTech in Control Sys
 <rintx vspace="45">PC Member/Reviewer</rintx><br><br>
 <descry>IEEE Trans. of KDE, JMLR, IEEE Trans. of Affective Computing, Chaos,<br>
 NIPS 2016-2019, ICLR 2018-2019, AAAI 2020, WWW 2020, KDD 2019, ICML 2018-2019, SDM 2018-2020.</descry>
-
-
 </body></html>
-
  
-<!My main research interests broadly lie in the area of Machine Learning and its applications on networks. Currently my focus is modeling, learning and control of networked dynamical processes. To this aim, I used different Point process based techniques to model various complex dynamics like opinion-diffusion, information propagation in social networks.>
-
-<!<br><br>>
-<! I also worked on supervised learning over graphs, for example, link prediction and recommendation problems. Very recently, I started working on deep learning on graphs, for example, deep generative random graph model,
-deep reinforcement learning of networked processes, etc.>
-
 
