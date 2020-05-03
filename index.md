@@ -70,7 +70,7 @@
   Assistant Professor<br>
   Department of Computer Science and Engineering<br> 
   Indian Institute of Technology Bombay<br>
-   Email: abir  [AT] cse [dot] iitb [dot] in
+   Email: abir  [AT] cse [dot] iitb [dot] ac [dot] in
 <hr class='linex'>
 <p id=about vspace="-35"> </p> 
       <rintx>About me</rintx>
@@ -103,11 +103,5 @@ Prior to this I did my BTech in Electrical Engineering  and MTech in Control Sys
 
 </ul>
 
-<hr align="justify">
-<p vspace="-15"> </p> 
-<rintx vspace="45">PC Member/Reviewer</rintx><br><br>
-<descry>IEEE Trans. of KDE, JMLR, IEEE Trans. of Affective Computing, Chaos,<br>
-NIPS 2016-2019, ICLR 2018-2019, AAAI 2020, WWW 2020, KDD 2019, ICML 2018-2019, SDM 2018-2020.</descry>
-</body></html>
- 
+
 
