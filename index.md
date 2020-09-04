@@ -100,7 +100,7 @@ Prior to this I did my BTech in Electrical Engineering  and MTech in Control Sys
 <p vspace="-15"> </p> 
 <rintx vspace="45">PC Member/Reviewer</rintx><br><br>
 <descry>AAAI 2021 (Senior PC), IEEE Trans. of KDE, JMLR, IEEE Trans. of Affective Computing, Chaos,<br>
-NIPS 2016-2020, ICLR 2018-2020, AAAI 2020, WWW 2020, KDD 2019-2020, ICML 2018-2020, SDM 2018-2020.</descry>
+NeurIPS 2016-2020, ICLR 2018-2020, AAAI 2020, WWW 2020, KDD 2019-2020, ICML 2018-2020, SDM 2018-2020.</descry>
 <hr align="justify">
 
 
