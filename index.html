@@ -60,7 +60,7 @@
       <a href="pub.html" class="header item">
  	Publications
       </a>
-     <!--<a href="rec.html" class="header item">Recognitions</a>-->
+     <a href="rec.html" class="header item">Recognitions</a>
      </div>
   </div>
  
