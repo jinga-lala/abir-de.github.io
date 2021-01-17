@@ -92,7 +92,8 @@ Prior to this I did my BTech in Electrical Engineering  and MTech in Control Sys
       <rintx vspace="45">Courses</rintx>
 <p vspace="55"> </p> 
 <ul>
-    <li><descry> Learning With Graphs, Autumn 2020.</descry> </li>
+    <li><descry> CS768 Learning With Graphs, Autumn 2020.</descry> </li>
+    <li><descry> <a href="cs419_2020.html"> CS419 Introduction to Machine Learning, Spring 2021.</a> </descry> </li>
 </ul>
 
 

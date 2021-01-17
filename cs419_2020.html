@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <!-- Standard Meta -->
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <!-- Site Properties -->
+  <title>Introduction to Machine Learning</title>
+
+  <link rel="stylesheet" type="text/css" href="t1.css">
+
+  <style type="text/css">
+  body {
+    background-color: #EAF6E4;
+   
+    background-repeat: no-repeat;
+    -webkit-print-color-adjust: exact;
+  background-attachment: fixed;
+  background-size: cover;
+  }
+   a {
+    color: blue;
+  }
+
+   urgent {
+    color:  #CC0000;
+  }
+  a:hover {
+    color: #FF5000;
+  }
+  .ui.menu .item img.logo {
+    margin-right: 1.5em;
+
+  }
+
+  .main.container {
+    margin-top: 7em;
+
+  }
+
+  .ui.footer.segment {
+    margin: 5em 0 0em 0;
+  }
+  .ui.segment {
+    background: transparent;
+
+  }
+  .ui.header, .ui.top.header {
+    background: transparent;
+
+
+  }
+
+  h1.ui.header, h4.ui.header  {
+    font-weight: bold;
+
+  }
+  .bold {
+    font-weight: bold;
+  }
+
+  @media print {
+    body {
+      background-position: 175% -100px;
+    }
+
+    .ui.menu, .timeline, .people, .footer, .resources {
+      display: none;
+
+
+    }
+
+
+    * {-webkit-print-color-adjust:exact;}
+
+    .main.container {
+      margin-top: 2em;
+
+    }
+  }
+.dot {
+  height: 40px;
+  width: 40px;
+  background-color: orange;
+  border-radius: 50%;
+ display: inline-block;
+ float: left;
+ margin: auto -20px;	
+
+ 
+}
+   div1 {
+      background-color: red;
+ 
+  margin-right: 1590px;
+  margin-left: -8000px;
+	}
+  </style>
+</head>
+
+
+
+<body>
+
+	
+  <div class="ui fixed inverted menu">
+
+    <div class="ui container">
+
+      <div href="#" class="header item">
+       Machine Learning for Non-CSE students (For CSE Minor Degree)
+      </div>
+
+    </div>
+ 
+  </div>
+
+
+  <div class="ui main text container" >
+    <h1 class="ui header">
+      <div class="content" style="margin-top:20px;">CS419 Introduction to Machine Learning</div>
+<div class="ui sub header">Machine Learning for Non-CSE students (For CSE Minor Degree)</div>
+    </h1>
+
+    <h4 class="ui top dividing header" id="basics">Course Description & Info</h4>
+    <div class="ui basic segment">
+      <p>Welcome to "Introduction to Machine Learning 419(M)". This is an UG Minor course.
+	You would be introduced about basic machine learning methods in this course.
+	In particular, we will specifically focus on foundations on machine learning from
+	somewhat formal viewpoint (but not too formal) and then will discuss how can you apply those concepts
+	to solve a real world problem.
+ 	This will also give you insights on how to apply machine learning to solve a new problem.</p>
+      <p>There are no official prerequisites. However, those who have solid foundations on probability and linear algebra will find the 	content very easy to follow</p>
+      <urgent>The registration for the course is closed. I apologize to prsopective students who are interested to take this course for not responding individually. I would suggest you may wish to take Foundations of Machine Learning course as an elective inthe  next semester.</urgent>
+      <div class="ui list">
+        <div class="item">
+          <i class="fa fa-calendar"></i>
+          <div style="display:inline; padding:5px;">Jan 6 '21 &mdash; May 25 '21</div>
+        </div>
+       <div class="item">
+          <i class="fa fa-clock-o"></i>
+          <div style="display:inline; padding:5px;">Wednesdays, Fridays, 9.30 am to 10.55 am</div>
+        </div>
+       <div class="item">
+          <i class="fa fa-envelope"></i>
+          <div style="display:inline; padding:5px;"><a href="mailto:abir@cse.iitb.ac.in">abir@cse.iitb.ac.in</a></div>
+        </div>
+       <div class="item">
+          <i class="fa fa-external-link"></i>
+          <div style="display:inline; padding:5px;"><a href="#">http://course-website</a></div>
+        </div>
+      </div>
+
+
+    <h4 id="work" class="ui top dividing header">Course Grading</h4>
+    <div class="ui basic segment">
+      <div class="ui ordered list">
+        <div class="item">
+          <div class="content">
+            <div class="header">Assignments</div>
+            <div class="description">20% Weightage</div>
+          </div>
+        </div>
+        <div class="item">
+          <div class="content">
+            <div class="header">Midsem</div>
+            <div class="description">25% Weightage</div>
+          </div>
+        </div>
+<div class="item">
+          <div class="content">
+            <div class="header">Endsem</div>
+            <div class="description">35% Weightage</div>
+          </div>
+        </div>        
+<div class="item">
+          <div class="content">
+            <div class="header">Project</div>
+            <div class="description">15% Weightage</div>
+          </div>
+        </div>
+
+<div class="item">
+          <div class="content">
+            <div class="header">Scribes</div>
+            <div class="description">5% Weightage</div>
+          </div>
+        </div>  
+      </div>
+    </div>
+
+ 
+
+    <h4 id="timeline" class="ui top dividing header timeline">Timeline</h4>
+    <div class="ui feed timeline">
+      <div class="event">
+        <div class="label"><span class="dot"></span></div>
+        <div class="content">
+          <div class="date">6th January -- 15th January </div>
+          <div class="summary">Reviews of basic maths, probabilities and linear algebra</div>
+        </div>
+      </div>
+
+      <div class="event">
+        <div class="label"><span class="dot"></span></div>
+        <div class="content">
+          <div class="date">20th January &mdash; 15th February</div>
+          <div class="summary">Regression, classification, clustering, ranking</div>
+        </div>
+      </div>
+
+
+ 
+
+
+    </div>
+
+    <h4 id="resources" class="ui top dividing header resources">Resources</h4>
+    <div class="ui basic segment">
+      <div class="ui relaxed divided list">
+        <div class="item">
+          <i class="fa fa-info-circle"></i>
+          <div style="display:inline; padding:5px;"><b>Lecture Videos & PPTs</b></div>
+            <br>
+	   <br>	
+            <div class="description">
+              <a href="https://drive.google.com/drive/folders/1pD7Ip9U5EEbQj9lkVVxO_pQviSmSjP2Q"><i class="fa fa-external-link"></i>  Lecture videos</a>,
+              <a href="https://drive.google.com/drive/folders/1QAd8YAj3h51KMwyC07fuX2leq3vKC6Sr"><i class="fa fa-external-link"></i>  PPTs</a>
+            </div>
+         
+        </div>
+       <br/>
+        <div class="item">
+          <i class="fa fa-book"></i>
+            <div style="display:inline; padding:5px;"><b>Books</b></div>
+            <div class="description">
+              <ul>
+                	<li><a href="http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/">Understanding Machine Learning</a>. Shai Shalev-Shwartz and Shai Ben-David. Cambridge University Press. 2017.</li>
+	<li><a href="https://web.stanford.edu/~hastie/ElemStatLearn/">The Elements of Statistical Learning</a>. Trevor Hastie, Robert Tibshirani and Jerome Friedman. Second Edition. 2009.</li>
+<!--<li><a href="http://www.deeplearningbook.org/">Deep Learning</a>. Ian Goodfellow, Yoshua Bengio and Aaron Courville. MIT Press. 2016.</li>-->
+	<li><a href="https://www.cs.cornell.edu/jeh/book.pdf">Foundations of Data Science</a>. Avrim Blum, John Hopcroft and Ravindran Kannan. January 2017.</li>
+	<li><a href="http://www.springer.com/in/book/9780387310732">Pattern Recognition and Machine Learning</a>. Christopher Bishop. Springer. 2006.</li>
+              </ul>
+            
+          </div>
+        </div>
+
+        	
+        </div>
+      </div>
+    </div>
+
+    <h4 id="people" class="ui top dividing header people">Instructor</h4>
+    <div class="ui basic segment people">
+      <div class="ui three column grid">
+        <div class="column">
+          <div class="ui fluid">
+ 
+            <div class="content">
+              <div class="description">
+                <a href="https://abir-de.github.io/">Abir De</a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        
+   
+      </div>
+    </div>
+<h4 id="work" class="ui top dividing header">Teaching Assistants</h4>
+    <div class="ui basic segment">
+      <div class="ui ordered list">
+        <div class="item">
+          <div class="content">
+            <div class="header">Axel James</div>
+            <div class="description"><i class="fa fa-envelope"></i>
+          <div style="display:inline; padding:5px;"><a href="mailto:193050049@iitb.ac.in">193050049@iitb.ac.in</a></div></div>
+          </div>
+        </div>
+<div class="item">
+          <div class="content">
+            <div class="header">Veerendrababu Vakkapatla</div>
+            <div class="description"><i class="fa fa-envelope"></i>
+          <div style="display:inline; padding:5px;"><a href="mailto:194050013@iitb.ac.in">194050013@iitb.ac.in</a></div></div>
+          </div>
+        </div>
+        <div class="item">
+          <div class="content">
+            <div class="header">Nimesh Aggarwal</div>
+            <div class="description"><i class="fa fa-envelope"></i>
+          <div style="display:inline; padding:5px;"><a href="mailto:203050049@iitb.ac.in">203050049@iitb.ac.in</a></div></div>
+          </div>
+        </div>
+<div class="item">
+          <div class="content">
+            <div class="header">Ashish Aggarwal</div>
+            <div class="description"><i class="fa fa-envelope"></i>
+          <div style="display:inline; padding:5px;"><a href="mailto:203050015@iitb.ac.in">203050015@iitb.ac.in</a></div></div>
+          </div>
+        </div>  
+<div class="item">
+          <div class="content">
+            <div class="header">Debabrata Biswal</div>
+            <div class="description"><i class="fa fa-envelope"></i>
+          <div style="display:inline; padding:5px;"><a href="mailto:dbiswal@iitb.ac.in">dbiswal@iitb.ac.in</a></div></div>
+          </div>
+        </div>       
+<div class="item">
+          <div class="content">
+            <div class="header">Srijon Sarkar</div>
+            <div class="description"><i class="fa fa-envelope"></i>
+          <div style="display:inline; padding:5px;"><a href="mailto:srijon@iitb.ac.in">srijon@iitb.ac.in</a></div></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</body>
+</html>
